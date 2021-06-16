@@ -1,0 +1,56 @@
+.Imagesection{
+    display: flex;
+    margin-top: 1rem;
+}
+
+.Imagesection .img{
+    width: 100%;
+    height: 30vh;
+}
+
+.Imagesection .img img{
+    width: 100%;
+    object-fit: cover;
+}
+
+.Imagesection .about-info{
+    margin-left: 2rem;
+}
+
+.Imagesection .about-info h4{
+    font-size: 2rem;
+}
+
+.Imagesection .about-info .about-text{
+    padding: 1rem 0;
+}
+
+.Imagesection .about-info .about-details .name-details{
+    display: flex;
+}
+
+.Imagesection .about-info .about-details .name-details p{
+    padding: 0.3rem 0;
+}
+
+.btn{
+    background: #037fff;
+    padding: 0.7rem;
+    margin-top: 1rem;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 15px;
+    outline: none;
+    transition: all 0.5s ease;
+    margin-bottom: 2rem;
+}
+
+.btn:hover{
+    background: #0381ff50;
+    color: #fff;
+}
+
+/* .Aboutpage .service-container{
+    display: flex;
+    justify-content: space-between;
+} */

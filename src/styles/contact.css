@@ -1,0 +1,38 @@
+.Contactpage{
+    display: flex;
+}
+
+.Contactpage .contact-section{
+    width: 100%;
+}
+
+.Contactpage .map-section{
+    height: 80%;
+    padding: 0.8rem;
+    background: #2e344e;
+    margin: 2rem;
+}
+
+.Contactitem{
+    width: 100%;
+    margin: 1rem 0;
+}
+
+.Contactitem .contact{
+    width: 100%;
+    align-items: center;
+    display: flex;
+    height: 10rem;
+    background: #191d2b;
+}
+
+.Contactitem .contact .right-items{
+    font-size: 1rem;
+    margin-left: 0.5rem;
+    padding-right: 1rem;
+}
+
+.Contactitem .contact img{
+    border: 2px solid #2e344e;
+    margin-left: 2rem;
+}

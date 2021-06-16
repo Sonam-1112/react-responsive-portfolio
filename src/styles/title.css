@@ -1,0 +1,14 @@
+.Title{
+    text-transform: uppercase;
+    font-size: 2rem;
+    color: rgba(33, 135, 236, 0.753);
+    position: relative;
+    padding-bottom: 3rem;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.Title h3{
+    width: 100%;
+    border-bottom: 3px solid #037fff;
+}
